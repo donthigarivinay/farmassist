@@ -21,8 +21,6 @@ FarmAssist is a web application that helps farmers buy agricultural products onl
 
 2. **Install dependencies:**
    npm install
-   Start the backend server:
-   npm start
 
 3.**Start the backend server:**
 npm start
@@ -58,5 +56,5 @@ Create a new Pull Request with a description of your changes.
 ### **📜 License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### **📬 Contact*
+### **📬 Contact**
 If you have any questions or suggestions, feel free to open an issue on the repository or contact me via vinaydonthigari@gmail.com.
