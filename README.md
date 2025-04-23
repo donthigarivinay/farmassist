@@ -20,9 +20,9 @@ FarmAssist is a web application that helps farmers buy agricultural products onl
    cd farmassist-backend
 
 2. **Install dependencies:**
-npm install
-Start the backend server:
-npm start
+   npm install
+   Start the backend server:
+   npm start
 
 3.**Start the backend server:**
 npm start
