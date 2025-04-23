@@ -36,8 +36,11 @@ cd farmassist-frontend
 ### **🛠️ Technologies Used**
 
 **Frontend:** React.js, HTML, CSS, JavaScript
+
 **Backend:** Node.js, Express.js
+
 **Database:** MongoDB (for product and user data storage)
+
 **Payment Gateway:** Integration with payment systems for cash on delivery and online payments
 
 ### **🤝 Contributing**
