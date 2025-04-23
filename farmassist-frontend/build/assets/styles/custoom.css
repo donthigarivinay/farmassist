@@ -1,0 +1,22 @@
+/* Custom CSS for FarmAssist */
+/* Add global styles here */
+
+/* Motivational quote styling */
+.motivational-quote {
+    font-family: 'Poppins', sans-serif;
+    color: #8B4513; /* Earthy brown */
+    font-style: italic;
+  }
+  
+  /* Custom button styles */
+  .btn-earthy-brown {
+    background-color: #8B4513;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem; /* 6px */
+    transition: background-color 0.3s;
+  }
+  
+  .btn-earthy-brown:hover {
+    background-color: #6B3410;
+  }
